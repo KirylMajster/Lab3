@@ -70,3 +70,4 @@ Wnioski
 Najlepsze efekty daje użycie Parallel.For, zwłaszcza przy dużych macierzach i rozsądnej liczbie wątków (4–8). Wersja Thread również jest szybka, ale bardziej kodochłonna. Sekwencyjna wersja działa poprawnie, ale jest najwolniejsza i nie wykorzystuje zalet procesorów wielordzeniowych. 
 Z kolei przetwarzanie obrazu przy użyciu równoległych wątków pozwala na szybką prezentację kilku niezależnych efektów graficznych bez zawieszania interfejsu użytkownika.
 
+![image](https://github.com/user-attachments/assets/809a35cf-32bc-4a25-a663-5e6590dcc2de)
